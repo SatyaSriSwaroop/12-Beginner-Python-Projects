@@ -1,0 +1,22 @@
+words = [
+  "apple",
+  "banana",
+  "computer",
+  "javascript",
+  "elephant",
+  "mountain",
+  "river",
+  "galaxy",
+  "ocean",
+  "mystery",
+  "puzzle",
+  "keyboard",
+  "sunshine",
+  "adventure",
+  "whisper",
+  "shadow",
+  "breeze",
+  "planet",
+  "library",
+  "dragon"
+]
